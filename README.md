@@ -1,0 +1,2 @@
+# BlazorApp
+Blazor Apps demo.
